@@ -7,6 +7,7 @@ public class Script {
 	public void a()
 	{
 		System.out.println("i am a ");
+		System.out.println("i am b");
 	}
 	@Test
 	public void b()
